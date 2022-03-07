@@ -13,15 +13,23 @@ h1{
 #form{
 text-align: center;
 border: solid red 12px;
-background-image: url(/home/angie/Documents/images/african baby/UN0186354.jpeg)
+background-image: url("images/UN0186354.jpeg");
+
 }
 .fill {
     text-align: center;
 }
 .before{
-    background-color: black;
+    
     color: white;
+    
+
 }
 body{
-background-image: url(https://cdn.wallpapersafari.com/40/27/LXUWj7.jpg);
+background-image: url("images/UN0186354.jpeg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+font-size: 30px;
+
 }
